@@ -1,7 +1,6 @@
 import { Check } from "phosphor-react";
 
 export function NewHabitForm() {
-    // 1:03:42
     return(
         <form className="w-full flex flex-col mt-6 font-normal text-base">
             <label htmlFor="title" className="font-semibold leading-tight">
