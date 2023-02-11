@@ -46,7 +46,6 @@ export function New() {
                     Qual a recorrência?
                 </Text> 
         
-
                 {
                     availableWeekDays.map((weekDay, index) => (
                         <Checkbox  
